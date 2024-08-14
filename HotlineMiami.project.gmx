@@ -583,7 +583,9 @@
       <filename>ToTheTop.ogg</filename>
     </datafile>
   </datafiles>
-  <NewExtensions/>
+  <NewExtensions>
+    <extension index="0">extensions\GMSched</extension>
+  </NewExtensions>
   <sounds name="sound">
     <sound>sound\sndDoubleBarrel</sound>
     <sound>sound\sndM16</sound>
@@ -3872,8 +3874,7 @@
     </objects>
   </objects>
   <rooms name="rooms">
-    <rooms name="Splash (3)">
-      <room>rooms\rmEnableSteam</room>
+    <rooms name="Splash (2)">
       <room>rooms\rmDevolver</room>
       <room>rooms\rmDennatonSplash</room>
     </rooms>

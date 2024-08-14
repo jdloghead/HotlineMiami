@@ -20,7 +20,7 @@
     <option_android_build_version>0</option_android_build_version>
     <option_android_color_depth>0</option_android_color_depth>
     <option_android_compile_sdk_version>23</option_android_compile_sdk_version>
-    <option_android_display_name>HotlineMiamiStudio</option_android_display_name>
+    <option_android_display_name>Hotline Miami</option_android_display_name>
     <option_android_facebook_app_display_name></option_android_facebook_app_display_name>
     <option_android_facebook_appid></option_android_facebook_appid>
     <option_android_facebook_enable>0</option_android_facebook_enable>
@@ -58,19 +58,19 @@
     <option_android_ouya_icon>Configs\Default\android\icons\ouyaIcon.png</option_android_ouya_icon>
     <option_android_package_company>companyname</option_android_package_company>
     <option_android_package_domain>com</option_android_package_domain>
-    <option_android_package_product>HotlineMiamiStudio</option_android_package_product>
-    <option_android_permission_flags>8</option_android_permission_flags>
+    <option_android_package_product>HotlineMiami</option_android_package_product>
+    <option_android_permission_flags>9</option_android_permission_flags>
     <option_android_portrait_splash_png>Configs\Default\android\portrait_splash.png</option_android_portrait_splash_png>
     <option_android_push_enable>0</option_android_push_enable>
     <option_android_push_id></option_android_push_id>
     <option_android_scale>-1</option_android_scale>
     <option_android_set_device_id></option_android_set_device_id>
-    <option_android_sleep_margin>4</option_android_sleep_margin>
+    <option_android_sleep_margin>1</option_android_sleep_margin>
     <option_android_splash_png>Configs\Default\android\splash.png</option_android_splash_png>
-    <option_android_splash_time>0</option_android_splash_time>
+    <option_android_splash_time>3</option_android_splash_time>
     <option_android_support_lib_version>23.1.1</option_android_support_lib_version>
     <option_android_target_sdk_version>23</option_android_target_sdk_version>
-    <option_android_texture_page>1024</option_android_texture_page>
+    <option_android_texture_page>2048</option_android_texture_page>
     <option_android_use_test_ads>false</option_android_use_test_ads>
     <option_androidfire_GPU_device>0</option_androidfire_GPU_device>
     <option_androidfire_adcolony_enable_V4VC>false</option_androidfire_adcolony_enable_V4VC>
@@ -134,7 +134,7 @@
     <option_androidfire_push_id></option_androidfire_push_id>
     <option_androidfire_scale>-1</option_androidfire_scale>
     <option_androidfire_set_device_id></option_androidfire_set_device_id>
-    <option_androidfire_small_icon_png>Configs\Default\amazonfire\icons\small_icon</option_androidfire_small_icon_png>
+    <option_androidfire_small_icon_png>Configs\Default\amazonfire\icons\small_icon.png</option_androidfire_small_icon_png>
     <option_androidfire_splash_png>Configs\Default\amazonfire\splash.png</option_androidfire_splash_png>
     <option_androidfire_splash_time>0</option_androidfire_splash_time>
     <option_androidfire_support_lib_version>23.1.1</option_androidfire_support_lib_version>
@@ -197,7 +197,7 @@
     <option_androidtv_push_id></option_androidtv_push_id>
     <option_androidtv_scale>-1</option_androidtv_scale>
     <option_androidtv_set_device_id></option_androidtv_set_device_id>
-    <option_androidtv_small_icon_png>Configs\Default\androidtv\icons\small_icon</option_androidtv_small_icon_png>
+    <option_androidtv_small_icon_png>Configs\Default\androidtv\icons\small_icon.png</option_androidtv_small_icon_png>
     <option_androidtv_splash_png>Configs\Default\androidtv\splash.png</option_androidtv_splash_png>
     <option_androidtv_support_lib_version>23.1.1</option_androidtv_support_lib_version>
     <option_androidtv_texture_page>1024</option_androidtv_texture_page>
@@ -222,44 +222,44 @@
     <option_frequency>0</option_frequency>
     <option_frontimage>nil</option_frontimage>
     <option_fullscreen>True</option_fullscreen>
-    <option_gameguid>{D6AAC3BF-7549-4238-95B0-D1069B6E485A}</option_gameguid>
-    <option_gameid>762421906</option_gameid>
+    <option_gameguid>{059C8790-5EF4-4C80-B809-0F2B04F8C9C7}</option_gameguid>
+    <option_gameid>744023706</option_gameid>
     <option_haptic_effects>0</option_haptic_effects>
     <option_hasloadimage>false</option_hasloadimage>
     <option_helpkey>true</option_helpkey>
     <option_html5_CreationEventOrder>true</option_html5_CreationEventOrder>
-    <option_html5_WebGL>2</option_html5_WebGL>
+    <option_html5_WebGL>1</option_html5_WebGL>
     <option_html5_advertising_enable>0</option_html5_advertising_enable>
     <option_html5_advertising_key></option_html5_advertising_key>
     <option_html5_advertising_type>Supersonic Ads</option_html5_advertising_type>
     <option_html5_allow_fullscreen>True</option_html5_allow_fullscreen>
     <option_html5_alwaysreload>False</option_html5_alwaysreload>
-    <option_html5_browser_title>Created with GameMaker: Studio</option_html5_browser_title>
+    <option_html5_browser_title>Hotline Miami</option_html5_browser_title>
     <option_html5_centergame>False</option_html5_centergame>
     <option_html5_facebook_app_display_name></option_html5_facebook_app_display_name>
     <option_html5_facebook_appid></option_html5_facebook_appid>
     <option_html5_facebook_enable>0</option_html5_facebook_enable>
     <option_html5_flurry_enable>0</option_html5_flurry_enable>
     <option_html5_flurry_id></option_html5_flurry_id>
-    <option_html5_foldername>html5game</option_html5_foldername>
+    <option_html5_foldername>data</option_html5_foldername>
     <option_html5_generate_spotify_app>0</option_html5_generate_spotify_app>
     <option_html5_google_analytics_enable>0</option_html5_google_analytics_enable>
     <option_html5_google_tracking_id></option_html5_google_tracking_id>
     <option_html5_icon>Configs\Default\html5\fav.ico</option_html5_icon>
     <option_html5_index>-1</option_html5_index>
     <option_html5_interpolate>-1</option_html5_interpolate>
-    <option_html5_jsprepend></option_html5_jsprepend>
+    <option_html5_jsprepend>alert("Port created by Jayden");</option_html5_jsprepend>
     <option_html5_loadingbar>-1</option_html5_loadingbar>
     <option_html5_localrunalert>True</option_html5_localrunalert>
     <option_html5_outputdebugtoconsole>True</option_html5_outputdebugtoconsole>
     <option_html5_outputname>index.html</option_html5_outputname>
     <option_html5_scale>-1</option_html5_scale>
-    <option_html5_showcursor>True</option_html5_showcursor>
+    <option_html5_showcursor>False</option_html5_showcursor>
     <option_html5_splash_png>Configs\Default\html5\splash.png</option_html5_splash_png>
     <option_html5_texture_page>2048</option_html5_texture_page>
     <option_html5_use_test_ads>0</option_html5_use_test_ads>
     <option_html5_usebuiltinparticles>True</option_html5_usebuiltinparticles>
-    <option_html5_usesplash>False</option_html5_usesplash>
+    <option_html5_usesplash>True</option_html5_usesplash>
     <option_icon>nil</option_icon>
     <option_in_app_purchase_sandbox_mode>0</option_in_app_purchase_sandbox_mode>
     <option_information></option_information>
@@ -546,8 +546,8 @@
     <option_winUAP_allowfullscreen>0</option_winUAP_allowfullscreen>
     <option_winUAP_build_version>0</option_winUAP_build_version>
     <option_winUAP_certificate_location>WinUWPRunner_TemporaryKey.pfx</option_winUAP_certificate_location>
-    <option_winUAP_display_name>HotlineMiamiStudio</option_winUAP_display_name>
-    <option_winUAP_fullscreen>0</option_winUAP_fullscreen>
+    <option_winUAP_display_name>Hotline Miami</option_winUAP_display_name>
+    <option_winUAP_fullscreen>-1</option_winUAP_fullscreen>
     <option_winUAP_internet_capable>0</option_winUAP_internet_capable>
     <option_winUAP_interpolate>-1</option_winUAP_interpolate>
     <option_winUAP_landscape_allowed>-1</option_winUAP_landscape_allowed>
@@ -559,12 +559,12 @@
     <option_winUAP_major_version>1</option_winUAP_major_version>
     <option_winUAP_microphone_capable>0</option_winUAP_microphone_capable>
     <option_winUAP_minor_version>0</option_winUAP_minor_version>
-    <option_winUAP_native_cpu>x86</option_winUAP_native_cpu>
-    <option_winUAP_package_display_name>YourPackageDisplayName</option_winUAP_package_display_name>
-    <option_winUAP_package_name>YourPackageName</option_winUAP_package_name>
+    <option_winUAP_native_cpu>x64</option_winUAP_native_cpu>
+    <option_winUAP_package_display_name>Hotline Miami</option_winUAP_package_display_name>
+    <option_winUAP_package_name>HotlineMiami</option_winUAP_package_name>
     <option_winUAP_portrait_allowed>-1</option_winUAP_portrait_allowed>
     <option_winUAP_portrait_flipped_allowed>-1</option_winUAP_portrait_flipped_allowed>
-    <option_winUAP_publisher_display_name>YourPublisherName</option_winUAP_publisher_display_name>
+    <option_winUAP_publisher_display_name>Dennaton Games</option_winUAP_publisher_display_name>
     <option_winUAP_publisher_name>CN=Sandbox</option_winUAP_publisher_name>
     <option_winUAP_revision_version>0</option_winUAP_revision_version>
     <option_winUAP_scaling_stretch>false</option_winUAP_scaling_stretch>
@@ -574,7 +574,7 @@
     <option_winUAP_splash_background_colour>#000000</option_winUAP_splash_background_colour>
     <option_winUAP_splash_png>Configs\Default\WindowsUAP\SplashScreen.scale-100.png</option_winUAP_splash_png>
     <option_winUAP_store_logo>Configs\Default\WindowsUAP\logos\StoreLogo.scale-100.png</option_winUAP_store_logo>
-    <option_winUAP_texture_page>1024</option_winUAP_texture_page>
+    <option_winUAP_texture_page>2048</option_winUAP_texture_page>
     <option_winUAP_wide_logo>Configs\Default\WindowsUAP\logos\WideLogo.scale-100.png</option_winUAP_wide_logo>
     <option_windowcolor>clBlack</option_windowcolor>
     <option_windows_alternate_sync_method>False</option_windows_alternate_sync_method>
@@ -681,10 +681,10 @@
     <option_xbone_require_xbox_live>True</option_xbone_require_xbox_live>
     <option_xbone_revision_version>0</option_xbone_revision_version>
     <option_xbone_scale>-1</option_xbone_scale>
-    <option_xbone_service_config_id></option_xbone_service_config_id>
+    <option_xbone_service_config_id>1234ABCD-1234-1234-1234-123456789ABC</option_xbone_service_config_id>
     <option_xbone_splash_screen_colour>#FFFFFF</option_xbone_splash_screen_colour>
     <option_xbone_texture_page>1024</option_xbone_texture_page>
-    <option_xbone_title_id></option_xbone_title_id>
+    <option_xbone_title_id>1234ABCD</option_xbone_title_id>
   </Options>
   <ConfigConstants/>
 </Config>
